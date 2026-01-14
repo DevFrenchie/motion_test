@@ -6,3 +6,4 @@ y += (mouse_y - y) * speed;
 // Rotate player to face mouse
 direction = point_direction(x, y, mouse_x, mouse_y);
 image_angle = direction; // Visually rotate sprite
+// Non-invasive change for git detection
