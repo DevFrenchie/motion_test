@@ -6,8 +6,4 @@
   
 - `player_obj` is a physics-enabled square (`Sprite1`) with a Step event that interpolates toward the mouse cursor while aligning its angle with the direction of travel.
 
-![preview](https://github.com/user-attachments/assets/dadad7ca-29c8-460f-b6ab-b4c701b4d5d7)
-
-
-
 ![preview](https://github.com/DevFrenchie/motion_test/blob/Highway_Racer/preview.gif)
