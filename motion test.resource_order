@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Controller","order":3,"path":"folders/GS/Assets/Controller.yy",},
+    {"name":"Instances","order":2,"path":"folders/GS/Assets/Instances.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_end","order":2,"path":"objects/obj_end/obj_end.yy",},
+    {"name":"obj_start","order":1,"path":"objects/obj_start/obj_start.yy",},
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+  ],
+}
