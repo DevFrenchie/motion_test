@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Wheels",
+  "%Name":"obj_end",
   "eventList":[],
   "managed":true,
-  "name":"Wheels",
+  "name":"obj_end",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/GS/Assets/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_player",
-    "path":"objects/obj_player/obj_player.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,9 +28,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite2",
-    "path":"sprites/Sprite2/Sprite2.yy",
+    "name":"Sprite5",
+    "path":"sprites/Sprite5/Sprite5.yy",
   },
-  "spriteMaskId":null,
-  "visible":false,
+  "spriteMaskId":{
+    "name":"Sprite4",
+    "path":"sprites/Sprite4/Sprite4.yy",
+  },
+  "visible":true,
 }
