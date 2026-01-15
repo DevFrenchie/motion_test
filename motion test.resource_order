@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Instances","order":2,"path":"folders/GS/Assets/Instances.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+  ],
+}
